@@ -1,0 +1,13 @@
+tablaturas
+monte de numeros e riscos q vc tem capacidade de entender + - as notas 
+
+(facil de encontrar)
+
+
+- e + (dolado do backspace) 
+diminui e aumenta a batida da musica o bpm (batida por minuto)(usado para o alinha mento das notas e toques
+
+
+; diminue a velocidade da musica
+
+N clap cada vez q passa uma nota aparecera um som de palma pra ver se a nota e o toque ta sincronizado

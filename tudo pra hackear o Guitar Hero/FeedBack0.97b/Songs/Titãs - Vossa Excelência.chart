@@ -1,0 +1,23 @@
+[Song]
+{
+	Name = "Vossa Excelência"
+	Artist = "Titãs"
+	Charter = "Unknown Charter"
+	Offset = 0
+	Resolution = 192
+	Player2 = bass
+	Difficulty = 0
+	PreviewStart = 0.00
+	PreviewEnd = 0.00
+	Genre = "rock"
+	MediaType = "cd"
+	MusicStream = "Titãs - Vossa Excelência.mp3"
+}
+[SyncTrack]
+{
+	0 = B 120000
+	0 = TS 4
+}
+[Events]
+{
+}

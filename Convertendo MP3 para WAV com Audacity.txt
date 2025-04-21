@@ -1,0 +1,5 @@
+AUDACITY
+
+Abra o Audacity. Vá em Arquivo -> Abrir, procure a .MP3 e abra-a. Depois que abrir, vá em Arquivo -> Exportar como WAV... e salve. Depois que salvar, pode fechar o Audacity (vai perguntar se vc quer salvar alterações na .MP3, clique em não).
+
+Agora temos que converter a .WAV em .VAG.

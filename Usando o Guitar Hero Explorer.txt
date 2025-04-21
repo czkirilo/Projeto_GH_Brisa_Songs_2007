@@ -1,0 +1,23 @@
+GUITAR HERO EXPLORER (GHex)
+
+Primeiro, crie uma pasta e copie o conteúdo do DVD do jogo pra dentro dela.
+Se for o GH 1 vc vai ter as seguintes pastas e arquivos:
+GEN
+IOP
+SLUS_212.24 (o número pode alterar, dependendo de qual versão do jogo vc tem)
+SYSTEM
+
+Se for o GH 2 vc vai ter as seguintes pastas e arquivos:
+GEN
+IOP
+VIDEOS
+SLUS_212.47 (o número pode alterar, dependendo de qual versão do jogo vc tem)
+SYSTEM
+
+Abra o GHex. Vá em File -> Add Archive -> abra a pasta do jogo (a que vc criou e que está no seu HD) -> abra a pasta GEN -> e abra o arquivo MAIN.
+
+Do lado esquerdo vc vai ter o sistema de arquivos do jogo. Expanda a opção “songs”, clicando no +. Clique no + da música que vc quer trocar, por exemplo Ace of Spades. Clique com o botão direito na .MID (no exemplo seria aceofspades.mid) -> Replace -> selecione a .MID que vai pro jogo e abra-a. Clique em Sim e espere terminar a substituição.
+
+Eu tava lendo em alguns fórums, dizendo que normalmente nesse passo o GHex dá um erro. Mas aí é só clicar em Continue, se aparecer esse erro. Parece que a música funciona de qualquer forma. Mas esse erro ainda não aconteceu comigo.
+ 
+Depois que concluir, faça a mesma coisa para o arquivo .VGS. Clique com o botão direito em cima dele (no exemplo seria aceofspades.vgs) -> Replace -> selecione o .VGS da música que vc quer e abra-o. Clique em Sim e espere terminar a substituição. Depois que terminar, vc vai poder ouvir a música clicando no botão PLAY. Feche o GHex.

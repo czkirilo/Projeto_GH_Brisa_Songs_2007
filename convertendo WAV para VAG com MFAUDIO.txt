@@ -1,0 +1,7 @@
+MFAUDIO
+
+Abra o MFAudio. Clique em Open e abra a .WAV que acabou de ser criada.
+
+Imediatamente abaixo de “Output audio file”, em “File Format” selecione VAG - Sony PSX Sound – Compressed ADPCM. Clique em Save As -> bote o nome da música e aperte salvar. Depois clique em “Process!”. Depois de convertido o arquivo, feche o programa!
+
+Última conversão: de .VAG para .VGS.

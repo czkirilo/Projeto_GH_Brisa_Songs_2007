@@ -1,0 +1,15 @@
+Você precisará de:
+
+- Guitar Hero Explorer (GHEX): http://static.onreally.com/download/GuitarHeroExplorer.msi
+- GH2DTBEdit (vem junto com o GH2ne): http://www.savefile.com/files/694488
+
+1) Abra o GHEX e vá para main/config/gen e extraia o arquivo mc.dtb para uma pasta que você se lembre.
+2) Abra esse arquivo mc.dtb no GH2DTBEdit
+3) Expanda o item base_dir e mude o valor ali apresentado (para ficar com as características do PS2 eu usei BASLUS-66601).(Nota: não use letras no lugar de números e vice-versa)
+4) Expanda o item elf_name e mude o valor ali apresentado (para ficara com as características do PS2 eu usei SLUS_666.01).
+5) Volte para o GHEX, vá de novo para main/config/gen, no arquivo mc.dtb, e troque-o pelo arquivo que você acabou de modificar. Pode fechar o GHEX.
+6) Vá para a pasta na qual você tem o Guitar Hero copiado, e mude o arquivo SLUS_algumacoisa para o mesmo nome que você usou no passo 4.
+7) Agora vá ao bloco de notas, e coloque em abrir. Selecione o arquivo SYSTEM, que se encontra na pasta na qual você copiou o jogo. (Se não conseguir o abrir, tente trocar a parte "Arquivos do tipo" para "Todos os arquivos".
+8) Com o arquivo aberto no bloco de notas, troque a parte SLUS_algumacoisa pelo mesmo nome que você usou no passo 4.
+9) Salve tudo.
+10) Grave o jogo

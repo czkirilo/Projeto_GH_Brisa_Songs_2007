@@ -1,0 +1,17 @@
+GUITAR HERO BRISA EXTREME INSANE *VERSÃO BETA*
+- charts em todas as dificuldades
+- save dependende
+- imagens originais
+- frases das telas de loading modificadas
+- eliminação do video de apresentação
+- patrocinadores originais
+- nomes das musicas alterados
+- charts com star power
+
+GUITAR HERO BRISA EXTREME INSANE *FINAL*
+- imagem dos patrocinadores trocadas
+- save independente
+- todas as imagens possiveis alteradas
+- musica do menu alterada
+- guitarras personalizadas
+de resto é igual a versão beta

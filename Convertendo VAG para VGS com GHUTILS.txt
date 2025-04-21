@@ -1,0 +1,13 @@
+GHUTILS
+
+Descompacte o conteúdo do ghutils para uma pasta chamada GHUtils, acho que o local onde está a pasta não importa. Eu descompactei pra pasta Arquivos de Programas que fica no diretório D: . Vou usar esse como exemplo.
+
+Vá em Iniciar -> Executar -> digite cmd -> clique OK.
+
+Vai aparecer o prompt do DOS. Saiba o caminho da pasta GHUtils. Digite “cd\Arquivos de Programas\GHUtils” (sem aspas). Vai ficar assim: “D:\Arquivos de Programas\GHUtils>”. Depois digite, sem aspas, “java FileExpandGuitarHero”. Se não funcionar digite (sem aspas!) “java -classpath . FileExpandGuitarHero” EXATAMENTE desse jeito, com o ponto entre espaços e as maiúsculas. Se não funcionar, vc precisa instalar java no seu PC.
+
+Vai abrir uma janelinha. Selecione o arquivo .VAG que foi criado e clique em New Audio. Vai começar a conversão. Vc vai saber que o arquivo .VGS foi criado quando aparecer uma janelinha com uma mensagem pedindo pra colocar um tal de “hex value”, clique Cancel nessa mensagem.
+
+O arquivo .VGS será criado onde está o arquivo .VAG. Novamente: ESPERE APARECER A MENSAGEM PEDINDO O HEX VALUE!! Só assim pra saber que a conversão realmente terminou. Se tiver demorando muito, abra o Windows Explorer e selecione o arquivo .VGS, vc vai ver que ele tem um certo tamanho, por exemplo 3MB, se clicar nele depois de um tempinho, o tamanho dele vai ter aumentado. Significa que ele ainda está sendo criado.
+
+Depois de convertido o arquivo... PRONTO! A música tá pronta pra ser colocada no jogo!

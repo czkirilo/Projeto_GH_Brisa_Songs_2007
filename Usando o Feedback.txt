@@ -1,0 +1,42 @@
+Você pode baixar a versão mais recente do FeedBack neste link: http://static.onreally.com/download/FeedBack0.4.9b.zip (Versão 0.4.9b)
+
+Não é necessário instalar o programa, apenas descompacte o arquivo em um local de sua preferência.
+Feito isso, você vai precisar copiar sua música para dentro da pasta "Songs" do programa.
+Até o momento, o FeedBack só reconhece músicas em formato .ogg, portanto se sua música for em formato .mp3 ou similar
+será preciso converter para .ogg antes de começar.
+
+audacity Download nesse link: http://audacity.sourceforge.net/ (O programa é freeware)
+
+Muito bem, após copiar seu arquivo .ogg para a pasta "Songs",
+abra o arquivo Config.ini com o bloco de notas e mude o nome entre aspas,
+que no caso será "Nemesis", pelo nome EXATO do seu arquivo .ogg. Salve e feche.
+
+Execute o arquivo Feedback.exe. Você verá uma tela muito familiar,
+um braço de guitarra bem parecido com o do jogo Guitar Hero.
+Vou chamá-la de pista de notas.
+
+Os comandos do programa você vê pressionando a tecla H.
+É fácil ir posicionando as notas com as teclas de 1 à 5.
+As teclas 6 e 7 servem pra definir as seções que o player 1 e 2 jogam no modo face off.
+A tecla 8 define as seções com notas especiais (estrela).
+
+Com as setas para cima e para baixo você vai movendo a pista de notas.
+Esquerda e direita muda as batidas (4/4, 3/4, etc.)
+
+Aperte espaço para tocar/pausar a música. Shift+espaço toca ela desde o início.
+
+Se quiser copiar alguma seção de notas é só selecionar a parte que quiser com shift,
+copiar com ctrl+c e colar onde quiser com ctrl+v.
+
+Use as teclas + e - para aumentar ou diminuir o tempo,
+ou seja, as batidas por minuto da pista de notas.
+
+As teclas F1 até F12 servem pra selecionar a dificuldade que será usada no jogo,
+vai desde o easy até o expert incluíndo seções de modo co-op.
+
+Uma dica importante para saber se as notas estão em sincronia com a música é ativar as palmas (tecla N),
+assim quando uma nota for tocada você ouve uma palma, fica bem fácil de saber se está sincronizado.
+Com a tecla M você ativa o metrônomo, assim dá pra saber se o tempo da música está certo com as BPMs.
+
+E é claro quando terminarem não esqueçam de salvar o trabalho (tecla S).
+O arquivo será salvo na pasta Songs junto com o arquivo .ogg.

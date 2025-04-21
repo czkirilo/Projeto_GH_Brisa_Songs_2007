@@ -1,0 +1,4 @@
+Custumer Master = Caique Zaneti
+Custume Auxiliar = Caio Simon
+Auxiliar Técnico = Luis Henrique
+Auxiliar Visual = Gulherme Piero

@@ -1,0 +1,6 @@
+APACHE 2
+
+Abra o Apache. Vá em File -> Import IML File.
+Selecione o arquivo .IML que vc criou e abra-o.
+Vá em File -> Build ISO -> Escreva o nome do arquivo e salve.
+Espere terminar a construção da imagem e PRONTO.

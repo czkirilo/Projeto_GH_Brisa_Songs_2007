@@ -1,0 +1,29 @@
+Abra o CD/DVD Generator.
+No Menu que aparece selecione “Create new project” e clique em OK.
+Depois selecione “DVD-ROM Master Disc” e clique em OK.
+
+Esteja com o Windows Explorer aberto e arraste o conteúdo da pasta do jogo (que está no seu HD)
+para a parte branca do CD/DVD Generator (a parte branca da direita e NÃO a que tem um desenho de um CD escrito Root)
+NA SEGUINTE ORDEM:
+
+Se for o GH 1:
+1º) GEN
+2º) IOP
+3º) SLUS_212.24
+4º) SYSTEM
+
+Se for o GH 2:
+1º) GEN
+2º) IOP
+3º) VIDEOS
+4º) SLUS_212.47
+5º) SYSTEM
+
+Agora clique na opção “Volume” (imediatamente abaixo do menu File).
+Em “Disc Name” coloque SLUS 21224 (se for o GH1), ou SLUS 21247 (se for GH2).
+Se o número do seu arquivo SLUS for diferente, coloque esse número então.
+Em “Producer Name” escreva PLAYSTATION. E em “License Area” selecione America.
+
+
+Agora vá em File -> Export iml file -> Escreva o nome do arquivo e salve.
+Feche o programa e clique em Não, quando aparecer a janela perguntando se vc quer salvar as alterações.
